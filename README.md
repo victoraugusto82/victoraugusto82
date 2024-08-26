@@ -6,13 +6,13 @@
 <div  align="center" >
   - 🔭 Atualmente estou trabalhando como freelancer ...
   <br>
-- 🌱 Atualmente estou trabalhando com react, typescript, Tailwind css ...
+- 🌱 Atualmente estou trabalhando com Html, Css, JS e Figma ...
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,typescript" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma" />
 </div>
 
 <h2 align="center" >⚡Stats⚡</h2>
