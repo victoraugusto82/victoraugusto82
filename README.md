@@ -9,7 +9,7 @@
 - 🌱 Atualmente estou trabalhando com Html, Css, JS e Figma ...
 </div>
 
-<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h2 align="center" >⚒️ Linguagens | Frameworks | Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma" />
